@@ -1,4 +1,0 @@
-Method,Rows,Censoring rate
-zero,5000,0.4292
-discard,5000,0.4292
-ipcw,5000,0.4292
