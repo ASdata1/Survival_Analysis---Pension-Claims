@@ -1,0 +1,22 @@
+# Core data science libraries
+pandas>=1.5.0
+numpy>=1.24.0
+matplotlib>=3.6.0
+scipy>=1.10.0
+
+# Machine learning
+scikit-learn==1.3.2
+
+# Survival analysis
+lifelines>=0.27.0
+scikit-survival==0.22.2
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Optional: Enhanced plotting
+seaborn>=0.12.0
+
+# Optional: Progress bars and utilities
+tqdm>=4.64.0
